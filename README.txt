@@ -74,4 +74,3 @@ This project demonstrates practical understanding of:
 - OpenZeppelin security standards  
 - Blockchain-based digital asset management  
 
-By completing this project, you show end-to-end capability in **Ethereum smart contract design**, **testnet deployment**, and **on-chain logic validation** — exactly what your internship assignment requires ✅
