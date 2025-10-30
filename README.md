@@ -58,12 +58,12 @@ To make NFTs more functional by introducing a decentralized rental ecosystem —
 **Network:** Core Testnet  
 **Compiler Version:** Solidity ^0.8.0  
 **Deployed Contract Address:** `0xd9145CCE52D386f254917e481eB44e9943F39138`  
-**Transaction Hash:** `<YOUR_TRANSACTION_HASH>`
 
 ---
 
 ## 🖼️ Screenshot
-![Transaction Screenshot](transaction_screenshot.png)
+![Transaction Screenshot](<img width="1380" height="892" alt="transaction_screenshot" src="https://github.com/user-attachments/assets/d3597c00-8d3b-4545-8576-f3342bd047ad" />
+)
 
 ---
 
