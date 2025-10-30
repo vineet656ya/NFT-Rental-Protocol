@@ -63,8 +63,6 @@ To make NFTs more functional by introducing a decentralized rental ecosystem —
 ---
 
 ## 🖼️ Screenshot
-*(Attach your Testnet transaction confirmation screenshot below)*
-
 ![Transaction Screenshot](transaction_screenshot.png)
 
 ---
